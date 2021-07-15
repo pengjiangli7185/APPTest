@@ -7,6 +7,7 @@
 import pytest
 
 
+
 def test_a(self):  # test开头的测试函数
     print("------->test_a")
     assert 1  # 断言成功
